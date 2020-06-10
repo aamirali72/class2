@@ -1,8 +1,14 @@
 import React from 'react';
+import './App.css';
+import Dinner from './dinner.js';
+
 
 function App() {
   return (
-    <h1>AAmir</h1>
+    <div className="App">
+      <Dinner />
+    </div>
+
   );
 }
 
