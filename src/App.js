@@ -1,14 +1,12 @@
 import React from 'react';
 import './App.css';
-import Dinner from './dinner.js';
+import Daughters from './Daughters.js';
 
 
 function App() {
   return (
     <div className="App">
-      <Dinner dishNAme="Chiken Biyani with Raita" sweetdish="kheer" />
-      <Dinner dishNAme="Chiken Biyani with Onion" sweetdish="Jalabi" />
-      <Dinner dishNAme="Chiken Biyani with Saled" sweetdish="Gajar ka halwa" />
+      <Daughters name1="Ayman" />
     </div>
 
   );
