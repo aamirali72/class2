@@ -6,7 +6,9 @@ import Dinner from './dinner.js';
 function App() {
   return (
     <div className="App">
-      <Dinner />
+      <Dinner dishNAme="Chiken Biyani with Raita" sweetdish="kheer" />
+      <Dinner dishNAme="Chiken Biyani with Onion" sweetdish="Jalabi" />
+      <Dinner dishNAme="Chiken Biyani with Saled" sweetdish="Gajar ka halwa" />
     </div>
 
   );
