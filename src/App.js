@@ -6,7 +6,7 @@ import Daughters from './Daughters.js';
 function App() {
   return (
     <div className="App">
-      <Daughters name1="Ayman" />
+      <Daughters name1="Ayman Aiza" />
     </div>
 
   );
