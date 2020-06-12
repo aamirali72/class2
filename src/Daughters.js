@@ -4,7 +4,8 @@ function Daughters(props) {
 
     return (
         <div>
-            <h1>I have Daughters {props.name1}</h1>
+            <h1>My Daughter name {props.Hername}</h1>
+            <h1>Her class is {props.HerClass}</h1>
         </div>
     )
 }
